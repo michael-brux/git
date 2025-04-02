@@ -8,7 +8,7 @@
 
 ### On GitHub
 
-[Git cheatsheet](https://docs.github.com/en/get-started/git-basics/git-cheatsheet)
+[GitHub Training Kit - GitHub Cheatsheets](https://training.github.com/)
 
 [Git basics](https://docs.github.com/en/get-started/git-basics)
 
