@@ -1,14 +1,15 @@
 # Git Configuration
-View all settings:
+## View all settings
+To show all settings, use the following command:
 ```
 $ git config --list
 ```
-... and show where they are comming from:
+Additionally display where the settings originate:
 ```
 $ git config --list --show-origin
 ```
 ## Identity
-"first thing you should do when you install Git is to set your user name and email address" - "every Git commit uses this information, and it’s immutably baked into the commits you start creating"
+The first thing you should do when you install Git is to **set your user name and email address**. Every Git commit uses this information, and it’s **immutably baked into the commits** you make 
 ```
 $ git config --global user.name "Max Mustermann"
 $ git config --global user.email me@example.com
